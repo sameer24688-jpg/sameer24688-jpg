@@ -1,14 +1,14 @@
 <div align="center">
 
-# Dr. Sameer Reddy Marri
-### Ph.D., MRSC, CSci · Medicinal Chemistry · Scientific Software
+![Dr. Sameer Reddy Marri — Medicinal Chemistry & Scientific Software](assets/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=16897C&center=true&vCenter=true&width=880&lines=Postdoctoral+Research+Associate+%40+Boston+University+CMD;Medicinal+Chemist+%7C+Infectious-Disease+Drug+Discovery;Building+tools+chemists+and+scientists+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=16897C&center=true&vCenter=true&width=900&lines=Lead+Medicinal+Chemist+%40+Boston+University+CMD;Infectious-Disease+Drug+Discovery+%7C+Probe+Design;Building+tools+chemists+and+scientists+actually+use)](https://git.io/typing-svg)
 
 [![BU CMD](https://img.shields.io/badge/Boston_University-CMD-CC0000?style=for-the-badge&logo=academia&logoColor=white)](https://www.bu.edu/cmd/about-the-bu-cmd/personnel/staff/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6954--0652-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6954-0652)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1xN_J3sAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-sameer-reddy-m-66a0a714b/)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-NJT--1636--2025-F8992D?style=for-the-badge)](https://www.webofscience.com/wos/author/record/NJT-1636-2025)
 
 ![Profile views](https://komarev.com/ghpvc/?username=sameer24688-jpg&style=flat-square&color=0f5c54&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/sameer24688-jpg?style=flat-square&color=7d3a54&label=FOLLOWERS)
@@ -20,19 +20,23 @@
 
 ## Hello, I’m Sameer 👋
 
-I’m a **Postdoctoral Research Associate** at the [Boston University Center for Molecular Discovery](https://www.bu.edu/cmd/), working where synthetic chemistry, chemical biology, and scientific software meet. My research focuses on infectious-disease medicinal chemistry—including *Leishmania*, orthopoxvirus, and fungal Hsp90 programs—plus photoaffinity and fluorescent probe design for target identification.
+I’m a **Lead Medicinal Chemist / Postdoctoral Research Associate** at the [Boston University Center for Molecular Discovery](https://www.bu.edu/cmd/), working where synthetic chemistry, chemical biology, and scientific software meet.
 
-I bring **8+ years** across hit-to-lead, multi-step synthesis, scale-up, and chemical biology: five years in pharmaceutical CRO discovery (Piramal, Sai Life Sciences) and current postdoctoral leadership at BU. Alongside the bench, I build open tools that chemists and computational scientists can actually run—document pipelines, chemical format converters, and agentic molecular visualization.
+Synthetic and medicinal chemist with **8+ years** across hit-to-lead, multi-step synthesis, scale-up, and chemical biology — five of them in pharmaceutical CRO discovery. I design routes, build photoaffinity probes for target ID, and rescue chemistry that has stalled. My current programs span *Leishmania*, orthopoxvirus, and fungal Hsp90, alongside fluorescent / PAL probe design.
+
+Alongside the bench, I build open tools chemists can actually run — privacy-first document pipelines, chemical format converters, and agentic molecular visualization.
 
 > **Research north star:** turn stalled chemistry and messy scientific data into molecules, insights, and software that move programs forward.
 
 ### What I’m exploring now
 
-- Infectious-disease hit-to-lead and probe-enabled target ID
-- Route design, protecting-group strategy, and multigram delivery under real program pressure
+- Infectious-disease hit-to-lead and probe-enabled target identification
+- Route design, protecting-group strategy, and multigram delivery under program pressure
 - Privacy-first scientific document → Markdown pipelines for LLM / RAG workflows
 - Cheminformatics utilities (CDXML / SDF / CSV) and dual-mode desktop tools
 - Agentic interfaces for structure visualization and PyMOL-centered discovery workflows
+
+**Focus tags:** Hit-to-Lead · Multi-step Synthesis · Route Scouting · Probe Design · Scale-up · Chemical Biology · AI-Assisted Programming
 
 ---
 
@@ -42,10 +46,12 @@ I bring **8+ years** across hit-to-lead, multi-step synthesis, scale-up, and che
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 PyMolAI
+### 🧬 [PyMolAI](https://github.com/sameer24688-jpg/PyMolAI)
 **Agentic interface for PyMOL workflows**
 
-AI assistant layer on open-source PyMOL—run molecular visualization, analysis, and figure workflows through natural language and tools scientists already trust.
+AI assistant layer on open-source PyMOL — run molecular visualization, analysis, and figure workflows through natural language and tools scientists already trust.
+
+**Design goal:** agentic molecular visualization for discovery chemists.
 
 [![Repo](https://img.shields.io/badge/GitHub-PyMolAI-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/PyMolAI)
 [![Site](https://img.shields.io/badge/Website-pymolai.com-16897c?style=flat-square)](https://pymolai.com)
@@ -53,10 +59,12 @@ AI assistant layer on open-source PyMOL—run molecular visualization, analysis,
 </td>
 <td width="50%" valign="top">
 
-### 📄 MDfier
+### 📄 [MDfier](https://github.com/sameer24688-jpg/MDfier)
 **Privacy-first document → Markdown**
 
-100% offline desktop app that turns PDF, DOCX, PPTX, and images into clean, LLM-ready Markdown (and back). Layout-aware parsing, GFM tables, local RapidOCR—no APIs, no network leaks.
+100% offline desktop app that turns PDF, DOCX, PPTX, and images into clean, LLM-ready Markdown (and back). Layout-aware parsing, GFM tables, local RapidOCR — no APIs, no network leaks.
+
+**Design goal:** local scientific document intelligence for RAG / LLM prep.
 
 [![Repo](https://img.shields.io/badge/GitHub-MDfier-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/MDfier)
 ![Stars](https://img.shields.io/github/stars/sameer24688-jpg/MDfier?style=flat-square)
@@ -66,22 +74,24 @@ AI assistant layer on open-source PyMOL—run molecular visualization, analysis,
 <tr>
 <td width="50%" valign="top">
 
-### ⚗️ Convertia
+### ⚗️ [Convertia](https://github.com/sameer24688-jpg/Convertia)
 **Chemical format conversion, done locally**
 
 Standalone Windows utility for CDXML ↔ SDF ↔ CSV conversions. Dual-mode binary: GUI on double-click, high-performance CLI when you need throughput. Powered by RDKit and spatial proximity heuristics.
+
+**Design goal:** one-click chemical format interoperability for medchem teams.
 
 [![Repo](https://img.shields.io/badge/GitHub-Convertia-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/Convertia)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio
-**Research + software in one place**
+### 🌐 [Research portfolio](https://github.com/sameer24688-jpg/SameerReddyM.github.io)
+**Bench background + software in one place**
 
-Background, publications, and tools for infectious-disease medicinal chemistry and scientific software engineering.
+Publications, experience, and tools spanning infectious-disease medicinal chemistry and scientific software engineering — from Hyderabad discovery benches to Boston University CMD.
 
-[![Site](https://img.shields.io/badge/Portfolio-GitHub_Pages-7d3a54?style=flat-square)](https://github.com/sameer24688-jpg/SameerReddyM.github.io)
+[![Repo](https://img.shields.io/badge/GitHub-Portfolio-7d3a54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/SameerReddyM.github.io)
 
 </td>
 </tr>
@@ -117,6 +127,7 @@ flowchart LR
 ![Chemical Biology](https://img.shields.io/badge/Chemical_Biology-7d3a54?style=for-the-badge)
 ![Photoaffinity Probes](https://img.shields.io/badge/Photoaffinity_Probes-c06a2c?style=for-the-badge)
 ![Infectious Disease](https://img.shields.io/badge/Infectious_Disease-CC0000?style=for-the-badge)
+![Scale-up](https://img.shields.io/badge/Scale--up-d9a441?style=for-the-badge)
 
 **Scientific computing & software**
 
@@ -126,6 +137,7 @@ flowchart LR
 ![PyMOL](https://img.shields.io/badge/PyMOL-Visualization-1D4ED8?style=for-the-badge)
 ![OCR / RAG](https://img.shields.io/badge/OCR_%2F_RAG_Pipelines-0891B2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Desktop_Apps-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -138,7 +150,21 @@ flowchart LR
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sameer24688-jpg&theme=default&hide_border=true&ring=16897c&fire=c06a2c&currStreakLabel=0f5c54)](https://git.io/streak-stats)
 
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer24688-jpg&bg_color=ffffff&color=0f5c54&line=16897c&point=c06a2c&area=true&hide_border=true)
+
 </div>
+
+---
+
+## Experience snapshot
+
+| Role | Org | Focus |
+|---|---|---|
+| Postdoctoral Research Associate (2023–Present) | Boston University CMD | Lead synthesis — Leishmania, orthopoxvirus, fungal Hsp90; PAL / fluorescent probes; multigram delivery |
+| Research Scientist — Discovery & Scale-Up (2020–2023) | Sai Life Sciences | 8–13 step routes; mg→multigram; Outstanding Contributor Award (2021) |
+| Research Scientist — Discovery Chemistry (2018–2020) | Piramal Discovery Solutions | Oncology, CNS, anti-infectives; route optimisation |
+
+**Education:** Ph.D. Chemistry (CUG) · M.Phil. Chemistry (CUG) · M.Sc. Organic Chemistry (Osmania) · B.Sc. (Osmania)
 
 ---
 
@@ -146,15 +172,16 @@ flowchart LR
 
 - **17 publications · 295+ citations** spanning medicinal chemistry, synthesis, and discovery science
 - Postdoctoral leadership across **Leishmania, orthopoxvirus, and fungal Hsp90** programs at BU CMD
-- Prior CRO discovery experience at **Sai Life Sciences** and **Piramal Discovery Solutions** (oncology, CNS, anti-infectives)
-- **MRSC** and **Chartered Scientist (CSci)**; Ph.D. Chemistry, Central University of Gujarat
+- Prior CRO discovery experience at **Sai Life Sciences** and **Piramal Discovery Solutions**
+- **MRSC** (790237) and **Chartered Scientist (CSci)**, Science Council UK
+- Peer reviewer — 14 reviews across 10 journals; Schrödinger certifications ×2
 - Builder of practical open-source tools for chemists: document intelligence, format conversion, and molecular visualization AI
 
 <p align="center">
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Explore_publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1xN_J3sAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-Record-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6954-0652)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-NJT--1636--2025-F8992D?style=for-the-badge)](https://www.webofscience.com/wos/author/record/NJT-1636-2025)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-Author_record-F8992D?style=for-the-badge)](https://www.webofscience.com/wos/author/record/NJT-1636-2025)
 
 </p>
 
@@ -162,10 +189,10 @@ flowchart LR
 
 ## Let’s build something consequential
 
-I’m open to collaborations spanning:
+I’m open to collaborations and roles spanning:
 
-- Infectious-disease medicinal chemistry and probe design
-- Hit-to-lead / scale-up strategy for stalled synthetic routes
+- Infectious-disease medicinal / synthetic / process chemistry
+- Probe design and hit-to-lead strategy for stalled routes
 - Scientific software for chemists (cheminformatics, offline document tools, visualization agents)
 - Bridging wet-lab discovery with reproducible computational workflows
 

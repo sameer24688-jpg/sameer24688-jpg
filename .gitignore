@@ -1,0 +1,3 @@
+# Keep generated assets; ignore helper script cache if any
+__pycache__/
+*.pyc
