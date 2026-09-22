@@ -1,8 +1,8 @@
 <div align="center">
 
-![Dr. Sameer Reddy Marri — Medicinal Chemistry & Scientific Software](assets/header.png)
+![Dr. Sameer Reddy Marri — Medicinal & Synthetic Organic Chemist](assets/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=16897C&center=true&vCenter=true&width=900&lines=Lead+Medicinal+Chemist+%40+Boston+University+CMD;Infectious-Disease+Drug+Discovery+%7C+Probe+Design;Building+tools+chemists+and+scientists+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=16897C&center=true&vCenter=true&width=900&lines=Medicinal+%26+Synthetic+Organic+Chemist;Postdoc+%40+Boston+University+CMD;AI+enthusiast+building+tools+with+AI-assisted+coding)](https://git.io/typing-svg)
 
 [![BU CMD](https://img.shields.io/badge/Boston_University-CMD-CC0000?style=for-the-badge&logo=academia&logoColor=white)](https://www.bu.edu/cmd/about-the-bu-cmd/personnel/staff/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6954--0652-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6954-0652)
@@ -20,38 +20,36 @@
 
 ## Hello, I’m Sameer 👋
 
-I’m a **Lead Medicinal Chemist / Postdoctoral Research Associate** at the [Boston University Center for Molecular Discovery](https://www.bu.edu/cmd/), working where synthetic chemistry, chemical biology, and scientific software meet.
+I’m a **medicinal and synthetic organic chemist** — currently a Postdoctoral Research Associate at the [Boston University Center for Molecular Discovery](https://www.bu.edu/cmd/).
 
-Synthetic and medicinal chemist with **8+ years** across hit-to-lead, multi-step synthesis, scale-up, and chemical biology — five of them in pharmaceutical CRO discovery. I design routes, build photoaffinity probes for target ID, and rescue chemistry that has stalled. My current programs span *Leishmania*, orthopoxvirus, and fungal Hsp90, alongside fluorescent / PAL probe design.
+I’ve spent **8+ years** at the bench: hit-to-lead work, multi-step synthesis, scale-up, and chemical biology. Five of those years were in pharmaceutical CRO discovery, where I learned to design routes, keep campaigns moving, and fix chemistry when it stalls.
 
-Alongside the bench, I build open tools chemists can actually run — privacy-first document pipelines, chemical format converters, and agentic molecular visualization.
+I’m also an **AI enthusiast**. Outside the lab, I’ve been teaching myself AI-assisted programming and using it to build small tools that make chemists’ day-to-day work easier — things like document cleanup, chemical format conversion, and molecular visualization helpers.
 
-> **Research north star:** turn stalled chemistry and messy scientific data into molecules, insights, and software that move programs forward.
+> I care about chemistry that ships — and tools that save someone an afternoon.
 
-### What I’m exploring now
+### What I’m into right now
 
-- Infectious-disease hit-to-lead and probe-enabled target identification
-- Route design, protecting-group strategy, and multigram delivery under program pressure
-- Privacy-first scientific document → Markdown pipelines for LLM / RAG workflows
-- Cheminformatics utilities (CDXML / SDF / CSV) and dual-mode desktop tools
-- Agentic interfaces for structure visualization and PyMOL-centered discovery workflows
+- Medicinal and synthetic organic chemistry in discovery settings
+- Route design, protecting-group strategy, and getting molecules to scale
+- Learning by building: AI-assisted coding for practical lab-adjacent tools
+- Offline document → Markdown pipelines for reading papers with LLMs
+- Simple cheminformatics utilities and PyMOL-centered workflows
 
-**Focus tags:** Hit-to-Lead · Multi-step Synthesis · Route Scouting · Probe Design · Scale-up · Chemical Biology · AI-Assisted Programming
+**Focus:** Hit-to-Lead · Multi-step Synthesis · Route Scouting · Scale-up · Chemical Biology · AI-Assisted Programming
 
 ---
 
-## Flagship open-source work
+## Things I’ve been building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧬 [PyMolAI](https://github.com/sameer24688-jpg/PyMolAI)
-**Agentic interface for PyMOL workflows**
+**Chat with PyMOL**
 
-AI assistant layer on open-source PyMOL — run molecular visualization, analysis, and figure workflows through natural language and tools scientists already trust.
-
-**Design goal:** agentic molecular visualization for discovery chemists.
+An AI layer on open-source PyMOL so you can drive visualization and analysis in plain language, without fighting the command line every time.
 
 [![Repo](https://img.shields.io/badge/GitHub-PyMolAI-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/PyMolAI)
 [![Site](https://img.shields.io/badge/Website-pymolai.com-16897c?style=flat-square)](https://pymolai.com)
@@ -60,11 +58,9 @@ AI assistant layer on open-source PyMOL — run molecular visualization, analysi
 <td width="50%" valign="top">
 
 ### 📄 [MDfier](https://github.com/sameer24688-jpg/MDfier)
-**Privacy-first document → Markdown**
+**Papers → clean Markdown, offline**
 
-100% offline desktop app that turns PDF, DOCX, PPTX, and images into clean, LLM-ready Markdown (and back). Layout-aware parsing, GFM tables, local RapidOCR — no APIs, no network leaks.
-
-**Design goal:** local scientific document intelligence for RAG / LLM prep.
+A desktop app that turns PDFs, Word docs, decks, and images into LLM-ready Markdown — locally, with no cloud upload. Handy when you want RAG-friendly text without sending files anywhere.
 
 [![Repo](https://img.shields.io/badge/GitHub-MDfier-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/MDfier)
 ![Stars](https://img.shields.io/github/stars/sameer24688-jpg/MDfier?style=flat-square)
@@ -75,11 +71,9 @@ AI assistant layer on open-source PyMOL — run molecular visualization, analysi
 <td width="50%" valign="top">
 
 ### ⚗️ [Convertia](https://github.com/sameer24688-jpg/Convertia)
-**Chemical format conversion, done locally**
+**CDXML / SDF / CSV without the headache**
 
-Standalone Windows utility for CDXML ↔ SDF ↔ CSV conversions. Dual-mode binary: GUI on double-click, high-performance CLI when you need throughput. Powered by RDKit and spatial proximity heuristics.
-
-**Design goal:** one-click chemical format interoperability for medchem teams.
+A small Windows utility (GUI or CLI) for converting common chemical formats. Built with RDKit for days when ChemDraw and spreadsheets don’t want to talk to each other.
 
 [![Repo](https://img.shields.io/badge/GitHub-Convertia-0f5c54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/Convertia)
 
@@ -87,9 +81,9 @@ Standalone Windows utility for CDXML ↔ SDF ↔ CSV conversions. Dual-mode bina
 <td width="50%" valign="top">
 
 ### 🌐 [Research portfolio](https://github.com/sameer24688-jpg/SameerReddyM.github.io)
-**Bench background + software in one place**
+**A bit more about the path**
 
-Publications, experience, and tools spanning infectious-disease medicinal chemistry and scientific software engineering — from Hyderabad discovery benches to Boston University CMD.
+Background, publications, and how I got from organic chemistry benches in Hyderabad to discovery chemistry at Boston University.
 
 [![Repo](https://img.shields.io/badge/GitHub-Portfolio-7d3a54?style=flat-square&logo=github)](https://github.com/sameer24688-jpg/SameerReddyM.github.io)
 
@@ -98,46 +92,41 @@ Publications, experience, and tools spanning infectious-disease medicinal chemis
 </table>
 
 <p align="center">
-  <a href="https://github.com/sameer24688-jpg?tab=repositories"><strong>Explore all repositories →</strong></a>
+  <a href="https://github.com/sameer24688-jpg?tab=repositories"><strong>See all repositories →</strong></a>
 </p>
 
 ---
 
-## Bench-to-software pipeline
+## How I like to work
 
 ```mermaid
 flowchart LR
-    A[Biological / chemical question] --> B[Route & probe design]
-    B --> C[Synthesis & scale-up]
-    C --> D[Assay-ready molecules]
-    D --> E[Structure / data analysis]
-    E --> F[Reproducible software tools]
-    F --> G[Testable discovery hypothesis]
-    G -. experimental evidence .-> A
+    A[Chemistry question] --> B[Design the route]
+    B --> C[Make the molecules]
+    C --> D[Learn from the data]
+    D --> E[Build a small tool if it helps]
+    E --> F[Back to the next experiment]
 ```
 
 ---
 
-## Technical ecosystem
+## Toolkit
 
-**Chemistry & discovery**
+**Chemistry**
 
 ![Medicinal Chemistry](https://img.shields.io/badge/Medicinal_Chemistry-0f5c54?style=for-the-badge)
-![Organic Synthesis](https://img.shields.io/badge/Organic_Synthesis-16897c?style=for-the-badge)
+![Synthetic Organic](https://img.shields.io/badge/Synthetic_Organic-16897c?style=for-the-badge)
 ![Chemical Biology](https://img.shields.io/badge/Chemical_Biology-7d3a54?style=for-the-badge)
-![Photoaffinity Probes](https://img.shields.io/badge/Photoaffinity_Probes-c06a2c?style=for-the-badge)
-![Infectious Disease](https://img.shields.io/badge/Infectious_Disease-CC0000?style=for-the-badge)
 ![Scale-up](https://img.shields.io/badge/Scale--up-d9a441?style=for-the-badge)
 
-**Scientific computing & software**
+**Coding (still learning, building in public)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-Molecular_Informatics-0F766E?style=for-the-badge)
-![PyQt](https://img.shields.io/badge/PyQt-Desktop_UI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-Visualization-1D4ED8?style=for-the-badge)
-![OCR / RAG](https://img.shields.io/badge/OCR_%2F_RAG_Pipelines-0891B2?style=for-the-badge)
+![RDKit](https://img.shields.io/badge/RDKit-0F766E?style=for-the-badge)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-1D4ED8?style=for-the-badge)
+![AI-assisted coding](https://img.shields.io/badge/AI--assisted_coding-0891B2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Desktop_Apps-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -156,26 +145,26 @@ flowchart LR
 
 ---
 
-## Experience snapshot
+## A quick look at the journey
 
-| Role | Org | Focus |
+| Role | Org | Notes |
 |---|---|---|
-| Postdoctoral Research Associate (2023–Present) | Boston University CMD | Lead synthesis — Leishmania, orthopoxvirus, fungal Hsp90; PAL / fluorescent probes; multigram delivery |
-| Research Scientist — Discovery & Scale-Up (2020–2023) | Sai Life Sciences | 8–13 step routes; mg→multigram; Outstanding Contributor Award (2021) |
-| Research Scientist — Discovery Chemistry (2018–2020) | Piramal Discovery Solutions | Oncology, CNS, anti-infectives; route optimisation |
+| Postdoctoral Research Associate (2023–Present) | Boston University CMD | Discovery synthesis and scale-up in infectious-disease medicinal chemistry |
+| Research Scientist — Discovery & Scale-Up (2020–2023) | Sai Life Sciences | Long routes, mg→multigram delivery; Outstanding Contributor Award (2021) |
+| Research Scientist — Discovery Chemistry (2018–2020) | Piramal Discovery Solutions | Oncology, CNS, and anti-infective programs; route optimization |
 
 **Education:** Ph.D. Chemistry (CUG) · M.Phil. Chemistry (CUG) · M.Sc. Organic Chemistry (Osmania) · B.Sc. (Osmania)
 
 ---
 
-## Selected scholarship & impact
+## A few things I’m proud of
 
-- **17 publications · 295+ citations** spanning medicinal chemistry, synthesis, and discovery science
-- Postdoctoral leadership across **Leishmania, orthopoxvirus, and fungal Hsp90** programs at BU CMD
-- Prior CRO discovery experience at **Sai Life Sciences** and **Piramal Discovery Solutions**
-- **MRSC** (790237) and **Chartered Scientist (CSci)**, Science Council UK
-- Peer reviewer — 14 reviews across 10 journals; Schrödinger certifications ×2
-- Builder of practical open-source tools for chemists: document intelligence, format conversion, and molecular visualization AI
+- **17 publications · 295+ citations** in medicinal chemistry and synthesis
+- Discovery and scale-up experience across CRO and academic settings
+- Time at **Sai Life Sciences** and **Piramal Discovery Solutions** before BU
+- **MRSC** and **Chartered Scientist (CSci)**, Science Council UK
+- Peer reviewing for journals, plus a couple of Schrödinger certifications
+- Teaching myself to ship useful chemist tools with AI-assisted programming
 
 <p align="center">
 
@@ -187,14 +176,14 @@ flowchart LR
 
 ---
 
-## Let’s build something consequential
+## Happy to connect
 
-I’m open to collaborations and roles spanning:
+Always glad to talk about:
 
-- Infectious-disease medicinal / synthetic / process chemistry
-- Probe design and hit-to-lead strategy for stalled routes
-- Scientific software for chemists (cheminformatics, offline document tools, visualization agents)
-- Bridging wet-lab discovery with reproducible computational workflows
+- Medicinal / synthetic / process chemistry opportunities
+- Hit-to-lead and scale-up problems that need a stubborn chemist
+- Building small, useful tools for chemists with AI-assisted coding
+- Mixing wet-lab work with practical computation
 
 <p align="center">
 
@@ -204,4 +193,4 @@ I’m open to collaborations and roles spanning:
 
 </p>
 
-<p align="center"><em>Better molecules move faster when the chemistry, evidence, and tools are open.</em></p>
+<p align="center"><em>Good chemistry, honest tools, and a little curiosity go a long way.</em></p>
