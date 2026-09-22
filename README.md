@@ -187,7 +187,7 @@ Always glad to talk about:
 
 <p align="center">
 
-[![Email](https://img.shields.io/badge/Email-sameer24688%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameer24688@gmail.com)
+[![Email](https://img.shields.io/badge/Email-msr4chemistry%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:msr4chemistry@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-sameer-reddy-m-66a0a714b/)
 [![GitHub](https://img.shields.io/badge/GitHub-sameer24688--jpg-181717?style=for-the-badge&logo=github)](https://github.com/sameer24688-jpg)
 
